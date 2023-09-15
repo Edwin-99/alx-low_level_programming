@@ -1,8 +1,11 @@
 /**
+ * _putchar - Writes a character to stdout
  * print_number - Prints an integer.
  * @n: The integer to print.
  * Return: Nothing!
  */
+
+int _putchar(char c);
 
 void print_number(int n)
 {
